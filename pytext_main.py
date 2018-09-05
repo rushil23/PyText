@@ -27,7 +27,8 @@ def exit_():
 def about():
     # Display information
 
-    label = tkMessageBox.showinfo("About","PyText is a Python-based text editor. \nCreated by Rushil Nagarsheth (github.com/rushil23)")
+    label = tkMessageBox.showinfo("About","PyText is a Python-based text editor.\
+                                  \nCreated by Rushil Nagarsheth (github.com/rushil23)")
 
 # Creating the Menu dialogs
 
